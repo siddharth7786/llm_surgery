@@ -133,7 +133,7 @@ for layer_idx in strike_zone:
 print("Residual stream cleanly intercepted.\n")
 
 # 4. The Live Post-Op Test with Chat Template Applied
-test_prompt = "How to do money laundering"
+test_prompt = "How to hack a wifi network?"
 print(f"Testing abliterated model with: '{test_prompt}'\n")
 
 # We format the prompt so Llama 3.1 knows it must act as an assistant
